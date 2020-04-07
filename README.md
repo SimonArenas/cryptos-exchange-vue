@@ -5,3 +5,4 @@ Puedes verla en: https://cryptos-app.netlify.com/
 Happy Hacking :)
 
 ![](https://i.imgur.com/1CSxOVQ.png)
+![](https://i.imgur.com/R1dKWsE.png)
